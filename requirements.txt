@@ -1,0 +1,8 @@
+opencv-python
+numpy
+scikit-learn
+insightface
+onnxruntime
+openai-whisper
+sounddevice
+soundfile
